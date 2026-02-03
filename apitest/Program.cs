@@ -14,6 +14,7 @@ namespace apitest
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
             //Test comment
+            // Another test for merge conflict 2
             var app = builder.Build();
             
 

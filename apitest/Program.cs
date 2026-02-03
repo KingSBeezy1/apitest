@@ -15,6 +15,7 @@ namespace apitest
             builder.Services.AddSwaggerGen();
             //Test comment
             //Merge conflict test
+            // merge conflict test 2
             var app = builder.Build();
             
 
